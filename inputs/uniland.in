@@ -1,0 +1,7 @@
+// The program input for flipflap/src/main.leo
+[vote]
+node_id: u128 = 1u128;
+mov: u8 = 11u8;
+
+[open_game]
+node_id: u128 = 1u128;
