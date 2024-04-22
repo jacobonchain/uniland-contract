@@ -16,13 +16,22 @@ Here, every move is a secret that shapes the AI's learning path. Dive into the C
 - Types of Planets
 
 1. Genesis Planet: The starting point of the game, where all voting and decisions begin.
-2. Journey Planet: Various decision points during the game, players vote to decide the next move.
-3. Smart Planet: The planet that finally defeats Al, and occupying it will earn Smart Star points.
+3. Journey Planet: Various decision points during the game, players vote to decide the next move.
+5. Smart Planet: The planet that finally defeats Al, and occupying it will earn Smart Star points.
 
 - Voting Mechanism
 1. If a Journey Planet receives only one vote, we continue in that direction, exploring the next planet.
+![rule1](https://github.com/jacobonchain/uniland-contract/assets/167742857/53254d2d-3e75-459b-a263-81cce46ee3cc)
+
 2. If a Journey Planet receives two or more votes, this path opens up new possibilities. Now, players can cast more votes on this new planet, deciding how to further explore.
+<p align="center">
+  <img src="https://github.com/jacobonchain/uniland-contract/assets/167742857/dcebe404-6aef-41a5-bd15-e5ec40cdfa95" width="50%">
+</p>
+
 3. Once a vote has been cast on a new Journey Planet, the previous path is closed, and you can no longer go back to vote.
+<p align="center">
+  <img src="https://github.com/jacobonchain/uniland-contract/assets/167742857/e844c558-d5c2-4b6f-ae65-c4da67e45f30" width="50%">
+</p>
 
 ## Reward Distribution Mechanism
 
