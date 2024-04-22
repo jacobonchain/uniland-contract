@@ -11,7 +11,7 @@ Here, every move is a secret that shapes the AI's learning path. Dive into the C
 
 **Visit our website: https://uniland.club**
 
-## Game Rules （[More details](https://uniland.club/rules)）
+## Game Rules （[More details](https://uniland.club/vote-rule)）
 
 - Types of Planets
 
@@ -29,7 +29,7 @@ Here, every move is a secret that shapes the AI's learning path. Dive into the C
 4. Once a vote has been cast on a new Journey Planet, the previous path is closed, and you can no longer go back to vote.
 
 
-## Reward Distribution Mechanism
+## Reward Distribution Mechanism （[More details](https://uniland.club/reward-rule)）
 
 - Scoring System: In this game, points are referred to as "Energy". Every planet (i.e., each board state) has potential Energy.
 - Reward Calculation: The Energy of the victorious planet is calculated based on the number of winning pieces and the number of planets on the path. For example, if humans defeat AI with a score of 60:4, the number of winning pieces is 60-4=56. Then, calculate the total number of planets on the winning path, assumed to be N. Hence, each planet on the winning path will add 56/N Energy to its existing Energy.
