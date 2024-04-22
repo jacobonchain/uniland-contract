@@ -11,7 +11,7 @@ Here, every move is a secret that shapes the AI's learning path. Dive into the C
 
 **Visit our website: https://uniland.club**
 
-## Game Rules
+## Game Rules （More details @ https://uniland.club/rules）
 
 - Types of Planets
 
