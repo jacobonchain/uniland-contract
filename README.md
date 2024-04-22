@@ -1,9 +1,10 @@
+- If a Journey Planet receives two or more votes, this path opens up new possibilities. Now, players can cast more votes on this new planet, deciding how to further explore.
+
 # Welcome to UniLand
 https://uniland.club
 
 This is the Aleo contract repository for the Uniland game (a parallel privacy universe chessboard game).
 ![1](https://github.com/jacobonchain/uniland-contract/assets/167742857/5b42ad5d-5e93-453a-b9f2-83f551409a5c)
-
 
 ## One Move, Parallel Universes
 
@@ -22,13 +23,16 @@ Here, every move is a secret that shapes the AI's learning path. Dive into the C
 3. Smart Planet: The planet that finally defeats Al, and occupying it will earn Smart Star points.
 
 - Voting Mechanism
-<img src="https://github.com/jacobonchain/uniland-contract/assets/167742857/538a71c5-17c2-4adc-8be2-2b3d72bec054" />
-   - Once a vote has been cast on a new Journey Planet, the previous path is closed, and you can no longer go back to vote.
 
-<img src="https://github.com/jacobonchain/uniland-contract/assets/167742857/0793f7e9-32e7-4dec-b30b-ddd07c623f5a" />
-   - If a Journey Planet receives only one vote, we continue in that direction, exploring the next planet.
-   - If a Journey Planet receives two or more votes, this path opens up new possibilities. Now, players can cast more votes on this new planet, deciding how to further explore.
+   1. Once a vote has been cast on a new Journey Planet, the previous path is closed, and you can no longer go back to vote.
 
+   <img src="https://github.com/jacobonchain/uniland-contract/assets/167742857/538a71c5-17c2-4adc-8be2-2b3d72bec054" />
+   
+   2. If a Journey Planet receives only one vote, we continue in that direction, exploring the next planet.
+   
+   3. If a Journey Planet receives two or more votes, this path opens up new possibilities. Now, players can cast more votes on this new planet, deciding how to further explore.
+   
+   <img src="https://github.com/jacobonchain/uniland-contract/assets/167742857/0793f7e9-32e7-4dec-b30b-ddd07c623f5a" />
 
 
 ## Reward Distribution Mechanism （[More details](https://uniland.club/reward-rule)）
