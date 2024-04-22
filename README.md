@@ -1,4 +1,3 @@
-- If a Journey Planet receives two or more votes, this path opens up new possibilities. Now, players can cast more votes on this new planet, deciding how to further explore.
 
 # Welcome to UniLand
 https://uniland.club
