@@ -6,12 +6,12 @@ This is the Aleo contract repository for the Uniland game (a parallel privacy un
 ## One Move, Parallel Universes
 
 This is a parallel universe, 'Uniland Othello', where every move creates a new reality.
-Embark on a strategic quest to conquer wisdom-rich planets, shielded by Aleo Logo 's privacy technology.
+Embark on a strategic quest to conquer wisdom-rich planets, shielded by [Aleo](https://aleo.org/)'s privacy technology.
 Here, every move is a secret that shapes the AI's learning path. Dive into the Chess Planet Odyssey, One Move, Parallel Universes.
 
 **Visit our website: https://uniland.club**
 
-## Game Rules （More details @ https://uniland.club/rules ）
+## Game Rules （[More details](https://uniland.club/rules)）
 
 - Types of Planets
 
