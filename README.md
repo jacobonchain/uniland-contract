@@ -21,11 +21,12 @@ Here, every move is a secret that shapes the AI's learning path. Dive into the C
 
 - Voting Mechanism
 1. If a Journey Planet receives only one vote, we continue in that direction, exploring the next planet.
+   
 ![rule1](https://github.com/jacobonchain/uniland-contract/assets/167742857/53254d2d-3e75-459b-a263-81cce46ee3cc)
 
-2. If a Journey Planet receives two or more votes, this path opens up new possibilities. Now, players can cast more votes on this new planet, deciding how to further explore.
+3. If a Journey Planet receives two or more votes, this path opens up new possibilities. Now, players can cast more votes on this new planet, deciding how to further explore.
 
-3. Once a vote has been cast on a new Journey Planet, the previous path is closed, and you can no longer go back to vote.
+4. Once a vote has been cast on a new Journey Planet, the previous path is closed, and you can no longer go back to vote.
 
 
 ## Reward Distribution Mechanism
